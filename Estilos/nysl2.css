@@ -1,0 +1,49 @@
+.picture{
+    width: 100%;
+}
+.Title2{
+    background: Black;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.Title1{
+    font-size: 40px;
+}
+.navbar{
+    list-style:none;
+    position: absolute;
+    top: 77px;
+    right: 154px;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 600px;
+    
+}
+.content{
+    position: relative;
+    left: 216px;
+    top: 20px;
+    width: 72%;
+    margin-bottom: 50px;
+    
+    
+}
+.navbar li{
+    display: inline;
+    border-style: solid;
+    border-width: medium;
+    background-color: greenyellow;
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+}
+#active{
+    background-color: blue;
+}
+#active a{
+    color: white;
+}

@@ -1,0 +1,39 @@
+.Title2{
+    background: Black;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 314px;
+    right: 230px;
+}
+
+.navbar ul{
+    list-style:none;
+    position: relative;
+    top: 44px;
+}
+.picture{
+    width: 100%;
+    
+}
+div{
+    position: relative;
+    left: 216px;
+    top: -130px;
+    width: 72%;
+}
+.navbar li{
+    margin:40px;
+}
+.Title1{
+    position: absolute;
+    top: 91px;
+    left: 28px;
+    font-size: 70px;
+    color: greenyellow;
+}
