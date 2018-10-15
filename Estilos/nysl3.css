@@ -97,10 +97,6 @@ body {
     color: greenyellow;
 }
 
-.contact {
-    display: flex;
-}
-
 .email2 {
     margin-left: auto;
 }
@@ -133,7 +129,6 @@ body {
 }
 
 .maps2 {
-    display: flex;
     justify-content: flex-end;
 }
 
@@ -147,7 +142,6 @@ body {
 }
 
 .form1 {
-    display: flex;
     margin: 1%;
 }
 
@@ -156,7 +150,6 @@ body {
 }
 
 .form2 {
-    display: flex;
     flex-direction: column;
 }
 
@@ -164,7 +157,7 @@ body {
     margin: 1%;
 }
 
-.form4 {
+.form4, .send, .contact, .maps2, .form1, .form2, .header {
     display: flex;
 }
 
@@ -173,7 +166,6 @@ body {
 }
 
 .send {
-    display: flex;
     justify-content: flex-end;
 }
 
@@ -185,10 +177,6 @@ body {
 .banner {
     grid-column-start: 1;
     grid-column-end: 4;
-}
-
-.header {
-    display: flex;
 }
 
 .logo2 {
